@@ -1,0 +1,23 @@
+body{
+  color: rgb(19, 45, 70); 
+  font-family: 'Courier New', Courier, monospace; 
+}
+
+.hero-image{
+    background-image: url(Heavens_Gate_and_The_Pink_Panther.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+
+.hero-image{
+    text-align: center;
+    padding: 10px;
+    color: rgb(202, 241, 234);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
